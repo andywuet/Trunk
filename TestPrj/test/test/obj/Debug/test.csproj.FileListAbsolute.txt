@@ -1,0 +1,5 @@
+C:\Andy\GitRep\Trunk\TestPrj\test\test\bin\test.dll
+C:\Andy\GitRep\Trunk\TestPrj\test\test\bin\test.pdb
+C:\Andy\GitRep\Trunk\TestPrj\test\test\obj\Debug\ResolveAssemblyReference.cache
+C:\Andy\GitRep\Trunk\TestPrj\test\test\obj\Debug\test.dll
+C:\Andy\GitRep\Trunk\TestPrj\test\test\obj\Debug\test.pdb
